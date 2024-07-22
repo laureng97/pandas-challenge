@@ -1,0 +1,9 @@
+Summarizing the analysis
+	After looking through the data, it appears that school budget does not have an effect on passing rates for reading, math, and combined. 
+We observe that the schools with the lowest passing rates have higher budgets, than those in the top 5 passing rates. If we look at the spending ranges (per student),
+we can see that lower spending ranges (<$585) have higher passing rates than schools with higher spending ranges. 
+	We also see that school size may have an impact on passing rate. Schools with a smaller to medium size (<1000 to 2000 students) had higher passing rates 
+than schools with a large size (2000-5000). Though, small schools and medium schools are relatively close in overall passing rates (89.88 compared to 90.62). 
+	We can also see that grade does not have a large impact on passing rate for the school as a whole; this is shown by the small differences between 9th, 10th, 
+11th, and 12th grade passing rates per school.
+	Overall, the data analysis shows that Charter schools have better passing rates in math, reading, and combined, than Disctrict schools. 
